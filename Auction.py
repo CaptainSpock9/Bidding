@@ -1,7 +1,7 @@
 import random
 import matplotlib.pyplot as plt
 
-# Get user input for the auction parameters
+# Get user input for the auction parameters such as the numbers of bidders participating, the base price of the land, increasing price every round
 num_bidders = int(input("Enter the number of bidders: "))
 base_price = int(input("Enter the base price of the land: "))
 increment = int(input("Enter the price increment per round: "))
