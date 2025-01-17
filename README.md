@@ -1,2 +1,2 @@
 # Auction
-Bidding prediction model
+Bidding prediction model in an auction of a land
